@@ -1,0 +1,10 @@
+.DS_Store
+
+**/node_modules
+**/.env
+**/dist
+**/uploads
+
+.env
+backend/.env
+prep-ai-frontend/.env
